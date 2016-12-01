@@ -1,0 +1,27 @@
+{
+    "author": "Robert Ehni",
+    "dependencies": {},
+    "keywords": [],
+    "name": "classic-analog",
+    "pebble": {
+        "displayName": "Classic Analog",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "rocky",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "basalt",
+            "chalk",
+            "diorite",
+            "emery"
+        ],
+        "uuid": "20e67707-7bfa-4c2b-ab3a-8495735e91f6",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
